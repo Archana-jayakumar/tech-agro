@@ -1,25 +1,24 @@
 ![image](./assets/banner.png)
 
 
-# {Project Name} - MAGNATHON
+# Tech-agro - MAGNATHON
 Tell us about your project here
 
 ## Team Members
-[1.Archana](enter_github_profile_url)   
-[2.Team Member 2](enter_github_profile_url)   
-[3.Team Member 3](enter_github_profile_url)   
-[4.Team Member 4](enter_github_profile_url)   
+[1.Archana J](https://github.com/Archana-jayakumar)   
+[2.Arya Joshy](http://github.com/7-arya)   
+[3.Gowri M](https://github.com/gowr1)   
+[4.Navitha Eldhose](https://github.com/NAVITHA16)   
 
-## Link to Project
-[Embed the live link of project](live_link)
-<!-- ![image](./assets/test.png) -->
+<!-- ## Link to Project -->
+<!-- [Embed the live link of project](live_link) -->
+[image](./assets/test.png) 
 
 ## How it Works ?
-Explaining the working of project  
-Embed video of project demo
+This is a E-commerce site which helps to sell products between farmers and customers without any mediator.It allow visiters to find their products add them to their carts and securely make the payment.the the shopper complete the checkout process and finilize the transaction.
 
 ## Technologies used
-List out tech stacks you have used
+the technology used are HTML,Java script,CSS,Visual Studio, Git hub.
 
 ## How to configure
 Instructions for setting up project
